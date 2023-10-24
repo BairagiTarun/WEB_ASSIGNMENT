@@ -1,0 +1,5 @@
+Name=input("Enter Your Name: ")
+Age=int(input("Enter The Age: "))
+Qualification=input("Enter Your Qualification: ")
+Year_Of_Experience=input("Enter The Year Of Experience: ")
+print(Name,Age,Qualification,Year_Of_Experience,sep="\n")
